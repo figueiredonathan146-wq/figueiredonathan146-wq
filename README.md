@@ -1,4 +1,6 @@
-![My setup](Image.png)# Hi there, I'm Nathan 👋
+![My setup](image.png)  
+
+# Hi there, I'm Nathan 👋
 
 ### 💻 Full Stack Developer in Training
 
