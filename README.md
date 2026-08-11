@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Nathan 👋
 
-<!--
-**figueiredonathan146-wq/figueiredonathan146-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer in Training
 
-Here are some ideas to get you started:
+I'm a student of Full Stack Development at Rocketseat, focused on building modern web applications and continuously improving my skills through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning and building with:
+- HTML & CSS
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- REST APIs
+- Git & GitHub
+
+🤖 I'm also exploring how Artificial Intelligence can be integrated into web applications and development workflows.
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github" />
+</p>
+
+### 📚 Currently studying
+
+- Full Stack Development
+- Front-end with React
+- Back-end with Node.js
+- REST APIs
+- TypeScript
+- Web development fundamentals
+- AI integration in web applications
+
+### 🚀 Goals
+
+Build real-world projects, strengthen my development skills, and grow as a Full Stack Developer.
+
+### 📫 Let's connect
+
+I'm always open to learning, building and connecting with other developers.
